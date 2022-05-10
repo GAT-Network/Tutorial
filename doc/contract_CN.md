@@ -84,13 +84,7 @@ GATe供应将仅用于直接推进GAT网络项目，并确保未来的增长。
 
 ## 4. GA -GameAce NFT
 
-![](https://gat.network/wp-content/uploads/2022/01/cartridge-doggyMoonChase_clipped.png "cartridge-doggyMoonChase_clipped")
-
-![](https://gat.network/wp-content/uploads/2022/01/cartridge-cryptoSnake_clipped-266x300.png "cartridge-cryptoSnake_clipped")
-
-![](https://gat.network/wp-content/uploads/2022/01/cartridge-missileCommander_clipped-266x300.png "cartridge-missileCommander_clipped")
-
-![](https://gat.network/wp-content/uploads/2022/01/cartridge-spaceInvaders_clipped-266x300.png "cartridge-spaceInvaders_clipped")
+![](https://gameace.at/overview-games3.b5f9e189.png)
 
 **GameAce NFT Cartridges**
 

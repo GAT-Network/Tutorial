@@ -35,7 +35,6 @@
 * 社区建议：[Discord #idea](https://discord.gg/PdEj26VMjE)
 * bug反馈：[Discord #bug-report](https://discord.gg/dTZtpvDzGU)
 * GAT价格讨论群(英文)：[Telegram](https://t.me/GATprice)
-* GAT价格及链上活动监控：[Telegram](https://t.me/gatalert)
 * [GAT 质押](doc/stake_CN.md)
 * 非官方玩具NFT交易群：[Telegram](https://t.me/alchemynfttoysoffering)
 * MV市场NFT项目提交验证： [Google表单](https://forms.gle/YynkG1YyUhmVFDCL7)

@@ -1,6 +1,6 @@
 # GAT Network **Tutorial**
 
-Other languages： [中文](README.md)
+Other languages： [中文](README_CN.md)
 
 > The open source source of this tutorial is hosted on [Github] (https://github.com/GAT-Network/Tutorial)). Welcome to [participate in contribution maintenance](doc/contribute.md).  
 > For all information, please refer to [GAT Network official website](https://gat.network/)).

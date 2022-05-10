@@ -16,9 +16,9 @@
 * [兔兔crypto之视频介绍玩法2](https://www.youtube.com/channel/UCyx5lBuylT9Wxuszbs9LcaA)
 * [兔兔crypto之视频介绍玩法3](https://youtu.be/3O5USuS9T4w)
 
-可交易玩具的NFT市场
+## 可交易玩具的NFT市场
 
-- https://minted.vodka/market
-- https://legacy.minted.vodka/
-- https://www.bakeryswap.org/#/collection/toy
-- https://tofunft.com/collection/alchemy-arena-alchemytoys/items
+- [minted vodka](https://minted.vodka/market)
+- [legacy minted vodka](https://legacy.minted.vodka/)
+- [bakeryswap](https://www.bakeryswap.org/#/collection/toy)
+- [tofunft](https://tofunft.com/collection/alchemy-arena-alchemytoys/items)

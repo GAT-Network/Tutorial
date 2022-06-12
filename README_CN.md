@@ -87,10 +87,6 @@
 * 月报 – [Telegraph](https://telegra.ph/月报-04-23)、[Github](doc/month-update_CN.md)
 * 社区一小时 – [Telegraph](https://telegra.ph/社区一小时-04-23)、[Github](doc/community-hours_CN.md)
 
-* 3月-月报 – [Telegraph](https://telegra.ph/3月-月报-04-23)、[Github](doc/month-update-march_CN.md)
-* 社区一小时回顾-9 – [Telegraph](https://telegra.ph/社区一小时回顾--9-04-23)、[Github](doc/community-hours-9_CN.md)
-* 社区一小时回顾-5 – [Telegraph](https://telegra.ph/社区一小时回顾-5-04-23)、[Github](doc/community-hours-5_CN.md)
-
 ---
 * 团队 – [Telegraph](https://telegra.ph/团队-04-23)、[Github](doc/team_CN.md)
 * 合作伙伴 – [Telegraph](https://telegra.ph/合作伙伴-04-23)、[Github](doc/partner_CN.md)

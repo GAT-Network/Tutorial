@@ -21,7 +21,9 @@ Go to [official website](https://gat.network/tokenomics/) to verify)
 ## Liquidity pools and exchanges
 
 You can buy GAT from here:
-
+* [PancakeSwap (GATe, BNB)](https://pancakeswap.finance/swap?outputCurrency=0x41D5C3ed01B72eCB5c99d3b838553098Ecda9ef9)
+* [QuickSwap (GATe, MATIC)](https://quickswap.exchange/#/swap?outputCurrency=0xEC0a873cdBE667E5bD68AF47932c948f872032d6)
+* [OmniDex (GATe, TLOS)](https://omnidex.finance/swap?outputCurrency=0xEC0a873cdBE667E5bD68AF47932c948f872032d6)
 * [BackerySwap (GAT, BNB)](https://www.bakeryswap.org/#/swap?outputCurrency=0xf315cfc8550f6fca969d397ca8b807c5033fa122) (AMM)
 * [PancakeSwap (GAT, BNB)](https://pancakeswap.finance/swap#/swap?outputCurrency=0xf315cfc8550f6fca969d397ca8b807c5033fa122) (AMM)
 * [QuickSwap (GAT, MATIC)](https://quickswap.exchange/#/swap?outputCurrency=0xEC0a873cdBE667E5bD68AF47932c948f872032d6) (AMM)

@@ -19,12 +19,15 @@
 | **GA** | Callisto | [0x131867ad408A59eFDc78ca803a712e34A939Df71](https://explorer.callisto.network/address/0x131867ad408A59eFDc78ca803a712e34A939Df71/transactions) | GameAce NFT 卡带 |
 
 ## 流动性池和交易所
-
-* [BackerySwap (GAT, BNB)](https://www.bakeryswap.org/#/swap?outputCurrency=0xf315cfc8550f6fca969d397ca8b807c5033fa122)：流动性较好，建议在此交易
+* [PancakeSwap (GATe, BNB)](https://pancakeswap.finance/swap?outputCurrency=0x41D5C3ed01B72eCB5c99d3b838553098Ecda9ef9)：流动性较好，建议在此交易
+* [QuickSwap (GATe, MATIC)](https://quickswap.exchange/#/swap?outputCurrency=0xEC0a873cdBE667E5bD68AF47932c948f872032d6)
+* [OmniDex (GATe, TLOS)](https://omnidex.finance/swap?outputCurrency=0xEC0a873cdBE667E5bD68AF47932c948f872032d6)
+* [BackerySwap (GAT, BNB)](https://www.bakeryswap.org/#/swap?outputCurrency=0xf315cfc8550f6fca969d397ca8b807c5033fa122)
 * [PancakeSwap (GAT, BNB)](https://pancakeswap.finance/swap#/swap?outputCurrency=0xf315cfc8550f6fca969d397ca8b807c5033fa122)
 * [QuickSwap (GAT, MATIC)](https://quickswap.exchange/#/swap?outputCurrency=0xEC0a873cdBE667E5bD68AF47932c948f872032d6)
 * [OmniDex (GAT, TLOS)](https://minted.vodka/tools/wgat)
 
+* [GAT/GATe 1:1 转换](https://minted.vodka/services/wrappers)
 * [抹茶交易所 MEXC Global](https://www.mexc.com/)
 * K线：[PooCoin Price Charts](https://poocoin.app/tokens/0xf315cfc8550f6fca969d397ca8b807c5033fa122) 
 * [XP流动性池](https://pancakeswap.finance/swap?outputCurrency=0xF7D2b88Cdfcc3a12452c76Be7455fe1FA7f48852)

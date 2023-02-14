@@ -1,13 +1,14 @@
 # 团队
 
-官方网站：https://gat.network/team/
+官方页面：https://gat.network/team/
 
 ## 核心团队
 
+### Anne
+
 <img src="https://gat.network/wp-content/uploads/2022/01/gat-rev-300x300.jpg" width="200" height="200" />
 
-**Anne**
-
+Operations & Public Relations
 运营与公共关系
 
 Anne在德国学习工商管理，2007年毕业。之后她在德国和日本的主要公司工作，然后于2010年开始从事IT业务的个体经营。
@@ -20,10 +21,11 @@ Telegram: @anne_gatnetwork
 
 Discord: anne_AT#7314
 
+### Roman
+
 <img src="https://gat.network/wp-content/uploads/2021/09/12b39526-3191-422a-82ed-69af2e807619-300x300.jpeg" width="200" height="200" />
 
-**Roman**
-
+Backend & Frontend Development
 后端和前端开发
 
 在十多年前成为一名软件开发人员之前，Roman一直在银行业工作。在担任高级软件开发人员近20年的时间里，Roman对各种技术了如指掌。
@@ -36,10 +38,11 @@ Telegram: @romangat
 
 Discord: RomanGat#5643
 
+### Vitaly
+
 <img src="https://gat.network/wp-content/uploads/2021/10/e741aa23-650c-422f-99e5-0a7d581a2b23-300x300.png" width="200" height="200" />
 
-**Vitaly**
-
+Frontend Development & Marketing
 前端开发与营销
 
 Vitaly曾学习过工商管理，并曾在零售和银行业工作，十多年前成为IT领域的软件开发人员。他目前的重点是前端开发。在空闲时间，Vitaly参与独立游戏开发、像素艺术和游戏设计。
@@ -52,10 +55,11 @@ Telegram: @witwit7
 
 Discord: wit#1906
 
+### Phil
+
 <img src="https://gat.network/wp-content/uploads/2021/10/21c6b2c3-8f5d-4f79-bbed-1e635ad9b43e-1-300x300.png" width="200" height="200" />
 
-**Phil**
-
+Corporate Design & UIX
 企业设计和UIX
 
 Phil 拥有理学学士学位。在计算机科学中，他的论文是用户界面设计和用户交互设计。他于 2017 年底首次接触加密货币，并从此对它的技术和潜在用例着迷。
@@ -68,13 +72,14 @@ Telegram: @philcutz
 
 Discord: phil#8987
 
+### Peter
+
 <img src="https://gat.network/wp-content/uploads/2021/10/6038bc2c-2d6e-4bc0-a5a3-ef4a55cc00d8-1.jpeg" width="200" height="200" />
 
-**Peter**
-
+Strategy & Communications
 战略与交流
 
-彼得学习计算机工程，1999 年毕业，立即进入电信工作。五年后，他成为了个体经营者，从那时起，他一直担任 IT 运营流程专家。
+Peter 学习计算机工程，1999 年毕业，立即进入电信工作。五年后，他成为了个体经营者，从那时起，他一直担任 IT 运营流程专家。
 
 他对技术有很强的一般知识，并且乐于讨论各个层面的技术问题。他经常被要求为需要紧急和关键响应的例外和情况提供便利。
 
@@ -86,6 +91,8 @@ Telegram: @Pete4GAT
 
 Discord: Pete4GAT#3208
 
+---
+
 我们是一个总部设在德国的国际团队，作为一家软件公司，我们已经在数十个备受瞩目的 Web 开发项目上合作了十多年。我们的客户包括欧洲最大的 B2B 和 B2C 在线电子商务平台、世界上最大的食品连锁店以及最大的化工和电信公司；还有公共部门——政府机构。我们的重点在于复杂 B2B 系统的开发和迁移、架构咨询和 DLT 解决方案的开发。
 
 我们的客户重视我们的工作，因为我们将质量、速度和对业务目标的坚定关注的独特结合。
@@ -94,15 +101,15 @@ Discord: Pete4GAT#3208
 
 在我们的空闲时间，我们多年来一直沉迷于棋盘游戏和纸牌游戏。每周都有一个私人游戏活动。我们还收集 NFT。
 
-3 位创始人总共持有 100,000 GAT (每人 33,333 GAT) – [至少合法锁定到 2022 年 7 月](https://gat.network/what-happens-to-gat-holdings-of-the-gat-network-devteam/) – [查看钱包](https://bscscan.com/token/0xf315cfc8550f6fca969d397ca8b807c5033fa122?a=0x7b314bc7aee934038c01d4d15375ba7f0dece464)
+3 位创始人总共持有 100,000 GAT (每人 33,333 GAT) – [至少合法锁定到 2023 年](https://gat.network/what-happens-to-gat-holdings-of-the-gat-network-devteam/) – [查看钱包](https://bscscan.com/token/0xf315cfc8550f6fca969d397ca8b807c5033fa122?a=0x7b314bc7aee934038c01d4d15375ba7f0dece464)
 
 ## 扩展团队
 
+### OphirNoor
+
 <img src="https://gat.network/wp-content/uploads/2021/09/8497d00a-4375-4082-aa1c-b1a8c800387e.jpeg" width="200" height="200" />
 
-**OphirNoor**
-
-Business Development / Advisor / Moderator 
+Business Development / Advisor / Moderator
 业务发展/顾问/管理员
 
 **联系方式**
@@ -111,11 +118,11 @@ Telegram: @ophirnoor
 
 Discord: OphirNoor#1474
 
+### Mikey
+
 <img src="https://gat.network/wp-content/uploads/2021/09/1dfedde3-317b-4f73-927a-c453dc58afdf.jpeg" width="200" height="200" />
 
-**Mikey**
-
- Business Development/ Advisor / Moderator
+Business Development/ Advisor / Moderator
 业务发展/顾问/管理员
 
 **联系方式**
@@ -124,9 +131,9 @@ Telegram: @usernamemikey
 
 Discord: usernamemikey#4485
 
-<img src="https://gat.network/wp-content/uploads/2021/11/msg1493474734-9546.jpg" width="200" height="200" />
+### Promesx
 
-**Promesx**
+<img src="https://gat.network/wp-content/uploads/2021/11/msg1493474734-9546.jpg" width="200" height="200" />
 
 Advisor / Moderator
 顾问/管理员
@@ -137,9 +144,9 @@ Telegram: @promesx
 
 Discord: Promesx#4496
 
-<img src="https://gat.network/wp-content/uploads/2021/11/b8c1dba6-8168-48fe-a5fe-f0ac697e6a5f.jpeg " width="200" height="200" />
+### Johalex
 
-**Johalex**
+<img src="https://gat.network/wp-content/uploads/2021/11/b8c1dba6-8168-48fe-a5fe-f0ac697e6a5f.jpeg" width="200" height="200" />
 
 Advisor / Moderator
 顾问/管理员
@@ -150,9 +157,9 @@ Telegram: @Johnalxg
 
 Discord: Johalex#0428
 
-<img src="https://gat.network/wp-content/uploads/2021/11/7ba881d0-e1b4-46e4-9f5d-c3cdb66072d9-300x300.jpeg " width="200" height="200" />
+### Daigo
 
-**Daigo**
+<img src="https://gat.network/wp-content/uploads/2021/11/7ba881d0-e1b4-46e4-9f5d-c3cdb66072d9.jpeg" width="200" height="200" />
 
 Moderator
 管理员
@@ -163,9 +170,9 @@ Telegram: @DaigoLight
 
 Discord: Daigo#6074
 
-<img src="https://gat.network/wp-content/uploads/2022/03/wrydais.jpg" width="200" height="200" />
+### Wrydais
 
-**Wrydais**
+<img src="https://gat.network/wp-content/uploads/2022/03/wrydais.jpg" width="200" height="200" />
 
 Moderator
 管理员
@@ -174,5 +181,21 @@ Moderator
 
 Telegram: @wrydais
 
-Discord: wrydais#3906
+Discord: wrydais#1179
 
+### Vanessa
+
+<img src="https://gat.network/wp-content/uploads/2023/01/vanessa-300x300.jpeg" width="200" height="200" />
+
+Social Media
+社交媒体
+
+**联系方式**
+
+Telegram: @Vanessa_MintedVodka
+
+Discord: MintedVodka#3794
+
+## 团队历史展示
+
+* [GAT Network | Binance Incubation Grant Project Demo_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1eS4y1o7vp/)

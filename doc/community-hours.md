@@ -1,4 +1,9 @@
 # Community Hours
+
+* [#17](https://medium.com/gat-network/community-ama-17-august-4-e110937f9152)
+* [#16](https://medium.com/gat-network/community-ama-16-july-8-bfe4fb29c9ad)
+* [#15](https://medium.com/gat-network/community-ama-15-june-16-97e29bf98fe5)
+* [#14](https://medium.com/gat-network/community-ama-14-june-2-b42f9303064a)
 * [#13](https://medium.com/gat-network/community-ama-13-may-27-2884513e418a)
 * [#12](https://medium.com/gat-network/community-ama-12-may-19-989b5f15f391)
 * [#11](https://medium.com/gat-network/community-ama-11-may-12-a6b1e7668de0)

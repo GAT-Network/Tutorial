@@ -2,21 +2,20 @@
 title: 合作伙伴
 
 ---
-
-<a href="https://labs.binance.com/"><img src="https://gat.network/wp-content/uploads/2021/12/binancelabs-logo.png" height="50" /></a>
-
-<a href="https://www.bakeryswap.org/"><img src="https://gat.network/wp-content/uploads/2021/12/bakeryswap-logo_full.svg" height="50" /></a>
-
-<a href="https://bsc.news/"><img src="https://gat.network/wp-content/uploads/2021/12/bscnews-logo.svg" height="50" /></a>
-
-<a href="https://spores.app/"><img src="https://gat.network/wp-content/uploads/2021/12/spores-logo.svg" height="50" /></a>
-
-<a href="https://safepal.io"><img src="https://gat.network/wp-content/uploads/2022/01/black.svg" height="50" /></a>
-
-<a href="https://www.plebs.studio/"><img src="https://gat.network/wp-content/uploads/2022/01/plebstudio-logo-clipped.png" height="50" /></a>
-
-<a href="https://mint.club/"><img src="https://gat.network/wp-content/uploads/2022/03/mintclub-logo-bright.svg" height="50" /></a>
-
-<a href="https://dixel.club/"><img src="https://gat.network/wp-content/uploads/2022/03/logo-word-green.svg" height="50" /></a>
-
-<a href="https://bird.money/"><img src="https://gat.network/wp-content/uploads/2022/01/Bird_Logo_Lockup_FullColour.svg" height="50" /></a>
+* 公链
+  * [Callisto Network](https://callisto.network/)
+  * [IOTA](https://www.iota.org/)
+    * [ShimmerSea - Trade, earn and boost with the first DEX on the Shimmer Network](https://shimmersea.finance/)
+    * [IOTABOTS](https://iotabots.io/)
+    * [Assembly - The Future of Open Worlds](https://assembly.sc/)
+* 项目
+  * [SafePal Crypto Hardware Wallet (Official) | The best wallet to protect your assets](https://www.safepal.com/)
+  * [BakerySwap](https://www.bakeryswap.org/#/home)
+  * [Spores](https://spores.app/)
+  * [Bird.Money | Off-Chain Oracle Analytics, Defi, Lending](https://bird.money/)
+  * [Dixel Club | Mint Your Colors](https://dixelclub.com/)
+  * [Mint.club - Smart token builder for everyone](https://mint.club/)
+  * [Pleb Studio](https://www.plebs.studio/)
+  * [BSC News | The Latest News on Crypto, NFTs, and DeFi](https://bsc.news/)
+* 投资孵化机构
+  * [Binance Labs | Empowering the Decentralised Web](https://labs.binance.com/)

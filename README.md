@@ -2,55 +2,54 @@
 
 Other languages： [中文](README_CN.md)
 
-> The open source source of this tutorial is hosted on [Github] (https://github.com/GAT-Network/Tutorial)). Welcome to [participate in contribution maintenance](doc/contribute.md).  
+> The open source source of this tutorial is hosted on [Github](https://github.com/GAT-Network/Tutorial). Welcome to [participate in contribution maintenance](doc/contribute.md).
 > For all information, please refer to [GAT Network official website](https://gat.network/)).
 
 Please do your own research and decide if GAT is the right token for your investment strategy.
-
 
 ## [Gat Network introduction](doc/gat-network.md)
 
 ## [Contract](doc/contract.md)
 
-----
+---
 
 ![](https://gat.network/wp-content/uploads/2022/01/gat-ecosystem-800x750.png)
 
 ## Introduction and tutorial of various projects in the ecosystem：
+
 * [Alchemy Toys](doc/alchemytoys.md)：A play-to-earn interactive game that generates TOYs on the BSC
-network（[Tutorial](doc/alchemytoys-tutorial.md)）
+  network（[Tutorial](doc/alchemytoys-tutorial.md)）
 * [AlchemyArena](doc/alchemyarena.md)：A player-vs-player challenge game using TOYs, which also
-offers staking rewards（[Tutorial](doc/alchemyarena-tutorial.md)）
+  offers staking rewards（[Tutorial](doc/alchemyarena-tutorial.md)）
 * [Minted Vodka](doc/mintedvodka.md)：A powerful NFT marketplace that can also provide staking
-solutions（[Tutorial](doc/mintedvodka-tutorial.md)）
+  solutions（[Tutorial](doc/mintedvodka-tutorial.md)）
 * [GameAce](doc/gameace.md)：GameAce BEP721 NFTs that are the world’s first playable NFT games,
-native to the BSC network but portable to ETH and Polygon, etc（[Tutorial](doc/gameace-tutorial.md)）
+  native to the BSC network but portable to ETH and Polygon, etc（[Tutorial](doc/gameace-tutorial.md)）
 
 ## Official websites and communities
 
 * Website：https://gat.network/
-* Announcement：[Telegram](https://t.me/gat_news)、[Telegram Minted Vodka](https://t.me/mintedvodka)、[Discord](https://discord.gg/PdEj26VMjE)
+* Announcement：[Telegram](https://t.me/gat_news)、[Telegram Minted Vodka](https://t.me/mintedvodka)、[Discord](https://discord.gg/7uXjSZpNZH)
 * Twitter：[GAT Network](https://twitter.com/gat_network)、[MintedVodka](https://twitter.com/MintedVodka)
 * Blog：[Medium](https://medium.com/gat-network)
-
-* [Whitepaper](https://gat.network/wp-content/uploads/2021/11/litepaper.pdf) 
-
+* [Whitepaper](https://gat.network/wp-content/uploads/2021/11/litepaper.pdf)
 
 ## Others
 
 * GAT official partnership：https://gat.network/partner-tools/
-* Idea：[Discord #idea](https://discord.gg/PdEj26VMjE)
-* bug report：[Discord #bug-report](https://discord.gg/dTZtpvDzGU)
+* Idea：[Discord | #💡suggestions-and-ideas](https://discord.gg/7uXjSZpNZH)
+* bug report：[Discord | #🐛bug-reports](https://discord.gg/dyjRyrbnar)
 * Price Discussion Channel – not moderated：[Telegram](https://t.me/GATprice)
 * [GAT Stake](doc/stake.md)
 * TOYs Trading Channel – unofficial：[Telegram](https://t.me/alchemynfttoysoffering)
 * Minted Vodka NFT collection verify： [Google form](https://forms.gle/YynkG1YyUhmVFDCL7)
 
-----
+---
 
 * [Monthly Report](doc/month-report.md)
 * [Community AMA](doc/community-hours.md)
 * [Partner](doc/partner.md)
+* [Team](doc/team.md)
 
 [![](https://gat.network/wp-content/uploads/2022/01/binance-incubation-1.jpeg)](https://www.binance.com/en/blog/ecosystem/binance-labs-launches-season-3-of-incubation-program-421499824684903042)
 

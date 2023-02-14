@@ -8,7 +8,7 @@
 
 ## 目前已发布
 
-![](https://gameace.at/overview-games3.b5f9e189.png)
+![img](https://gameace.at/overview-games3.b5f9e189.png)
 
 ## 工作原理
 
@@ -18,6 +18,7 @@
 * 对于演示游戏，您不需要卡带。
 
 即使在同一个游戏中，每一个盒式NFT都是独一无二的！类似于以下各项的不同组合：
+
 * 不同背景
 * 不同字符
 * 不同的声音
@@ -28,9 +29,10 @@ GAT网络或其合作伙伴主办的特殊活动中会发布GameAce卡带NFT。�
 
 此外，大多数游戏都会为钱包中持有特定GAT网络特殊玩具的用户解锁功能加强和作弊。
 
-> ![](https://gameace.at/logo-concept-animatedx2.aac4f48f.gif): 这些游戏为钱包中持有特定 GAT Network 的特殊玩具的用户解锁了能量提升和作弊。 
+> ![](https://gameace.at/logo-concept-animatedx2.aac4f48f.gif): 这些游戏为钱包中持有特定 GAT Network 的特殊玩具的用户解锁了能量提升和作弊。
 
 **GameAce NFT 卡带现在是跨链的！** 您可以将它们连接到其他网络并返回！现在支持这些链：
+
 * BSC（我们的起源链）
 * Ethereum 以太坊
 * Polygon
@@ -45,16 +47,18 @@ GAT网络或其合作伙伴主办的特殊活动中会发布GameAce卡带NFT。�
 
 ![](https://gameace.at/doggy-screencast.8aaa8aca.gif)
 flappy-bird 的克隆。CryptoDoggie 正在追逐月亮，并在此过程中收集BAKE果。这个游戏只用“ a”键进行。
+
 * 铸造数量: 999
 * 烧毁数量: 235
 * 流通数量: 764
-* 发布: 2021年9月 
+* 发布: 2021年9月
 * CID: QmWhvwSaZPtnH3qt3s2ioSmfhBz9cYD1MoAPGckvDQ3JR7
 * 难度: 5/5
 
 [更多信息](https://gameace.at/#/doggy)
 [试玩](https://gameace.mypinata.cloud/ipfs/QmVcrRSPDnA6opjxoAfdvxAAjLopdd1EoxoPDKk3sq7nwf/)
-[游戏入口](https://gameace.mypinata.cloud/ipfs/QmWhvwSaZPtnH3qt3s2ioSmfhBz9cYD1MoAPGckvDQ3JR7/)
+[游戏入口
+](https://gameace.mypinata.cloud/ipfs/QmWhvwSaZPtnH3qt3s2ioSmfhBz9cYD1MoAPGckvDQ3JR7/)
 
 ---
 
@@ -65,15 +69,17 @@ flappy-bird 的克隆。CryptoDoggie 正在追逐月亮，并在此过程中收�
 ![](https://gameace.at/snake-screencast.b2d8e5a1.gif)
 
 经典的贪吃蛇游戏与一系列疯狂的强化。收集这些加密货币，只要你可以！使用箭头键玩，有时使用“ a”键。你也可以用“开始”键暂停游戏！
+
 * 发行量: 555
-* 发行时间: 2021年9月 
-* CID: QmeGbNqv51TTMiQnzmqfCR8ujTzkwwnnSJf2ZA4sW5kC4D 
+* 发行时间: 2021年9月
+* CID: QmeGbNqv51TTMiQnzmqfCR8ujTzkwwnnSJf2ZA4sW5kC4D
 * 难度: 3/5
 
 [更多信息](https://gameace.at/#/snake)
 [游戏入口](https://gameace.mypinata.cloud/ipfs/QmeGbNqv51TTMiQnzmqfCR8ujTzkwwnnSJf2ZA4sW5kC4D/)
 
 ---
+
 ### #4 Missile Commander 防空导弹
 
 ![](https://gameace.at/Missile.6776d809.png)
@@ -81,16 +87,18 @@ flappy-bird 的克隆。CryptoDoggie 正在追逐月亮，并在此过程中收�
 ![](https://gameace.at/missile-screencast1.80c55650.gif)
 
 一个经典导弹指挥游戏的克隆。用防空导弹系统保护你的财产: 用箭头键瞄准，A 键射击。在10级扩大的混乱中生存！用“开始”键暂停。
+
 * 发行量: 555
-* 发行时间: 2021年11月 
+* 发行时间: 2021年11月
 * CID: QmZHNohZivqgKrXw9vNv5X4Nty5SDbznALvLeVoyQ2qmFu
 * 难度: 4/5
 
-[更多信息](https://gameace.at/#/missile) 
-[试玩](https://gameace.mypinata.cloud/ipfs/QmTUTU3Vfg9PYiR4F3rsdxU1BFcm72jATuFMQzNTJYzAfc/) 
+[更多信息](https://gameace.at/#/missile)
+[试玩](https://gameace.mypinata.cloud/ipfs/QmTUTU3Vfg9PYiR4F3rsdxU1BFcm72jATuFMQzNTJYzAfc/)
 [游戏入口](https://gameace.mypinata.cloud/ipfs/QmZHNohZivqgKrXw9vNv5X4Nty5SDbznALvLeVoyQ2qmFu/)
 
 ---
+
 ### #3 Crypto Invaders 加密入侵者
 
 ![](https://gameace.at/Invaders.300a5f35.png)
@@ -102,27 +110,29 @@ flappy-bird 的克隆。CryptoDoggie 正在追逐月亮，并在此过程中收�
 * 铸造数量：555
 * 发布时间：2021 年 12 月
 * CID: QmUoaFtLU1cSnXkec5ajWa94Kxs7tubsPaJL16bWYcDH2E
-* 难度：4 / 5 
+* 难度：4 / 5
 
-[更多信息](https://gameace.at/#/invaders) 
-[试玩](https://gameace.mypinata.cloud/ipfs/QmfBXvDrWBZQnsACmxvSVAFLRtMmAC3oNByv6LJvkoTkyS/) 
+[更多信息](https://gameace.at/#/invaders)
+[试玩](https://gameace.mypinata.cloud/ipfs/QmfBXvDrWBZQnsACmxvSVAFLRtMmAC3oNByv6LJvkoTkyS/)
 [游戏入口](https://gameace.mypinata.cloud/ipfs/QmUoaFtLU1cSnXkec5ajWa94Kxs7tubsPaJL16bWYcDH2E/)
 
 ---
+
 ### Elon to the moon! 马斯克去月球
 
 ![](https://gameace.at/ElonMoonCartridge2.5c9a7960.png)
 
 ![](https://gameace.at/elon-concept.46ba3c96.png)
 
-埃隆(Elon)正试图乘坐他的狗狗（Doge）火箭到达月球。 在途中，他遇到了熊鲸、黑天鹅和拜占庭将军的空间块、船只和发射台，他们试图倾倒他的代币。 争夺月球的战斗开始了！ 
+埃隆(Elon)正试图乘坐他的狗狗（Doge）火箭到达月球。 在途中，他遇到了熊鲸、黑天鹅和拜占庭将军的空间块、船只和发射台，他们试图倾倒他的代币。 争夺月球的战斗开始了！
 
 * 铸造数量: 555
-* 发行: 2022 
-* CID: TBA 
+* 发行: 2022
+* CID: TBA
 * 难度: 4/5
 
 ---
+
 ### Elon's Moon Shootout 马斯克的月球射击
 
 ![](https://gameace.at/ShootoutCartridge.a22b8548.png)
@@ -130,19 +140,21 @@ flappy-bird 的克隆。CryptoDoggie 正在追逐月亮，并在此过程中收�
 埃隆(Elon)终于到达了月球。然而，他不得不抵御 Bearz 和 FUDsters 的军队。
 
 * 铸造数量: 111
-* 发布: 很快 
-* CID: TBA 
+* 发布: 很快
+* CID: TBA
 * 难度: 5/5
 
 ---
+
 ### 下一个游戏
 
 ![](https://gameace.at/question.627625bc.png)
 
 下一次分发将发生时，艺术家(我)得到足够醉，以编写另一个主要的一块游戏代码。
+
 * 铸造数量: 111
-* 释放: TBA 
-* CID: TBA 
+* 释放: TBA
+* CID: TBA
 * 难度: 未知
 
 [分发更新](https://twitter.com/GAT_network)
@@ -161,11 +173,11 @@ flappy-bird 的克隆。CryptoDoggie 正在追逐月亮，并在此过程中收�
 
 ### 支持哪些链？
 
-NFT 卡带是BSC网络上的产生的。但是你也已经可以在其他网络交易和畅玩你的GameAce游戏！你所需要做的就是在这里桥接它们: 
+NFT 卡带是BSC网络上的产生的。但是你也已经可以在其他网络交易和畅玩你的GameAce游戏！你所需要做的就是在这里桥接它们:
 
 [Minted Vodka Bridge](https://minted.vodka/tools/bridge)
 
-现在这些链被支持: 
+现在这些链被支持:
 
 * Binance Smart Chain
 * Ethereum
@@ -183,21 +195,21 @@ NFT 卡带是BSC网络上的产生的。但是你也已经可以在其他网络�
 
 ### 按钮是如何映射到键盘上的？
 
-*   "A" -> "A"
-*   "B" -> "S"
-*   "Start 开始" -> "Enter"
-*   "Reset 重置" -> "Escape"
-*   方向按钮 -> 箭头键
+* "A" -> "A"
+* "B" -> "S"
+* "Start 开始" -> "Enter"
+* "Reset 重置" -> "Escape"
+* 方向按钮 -> 箭头键
 
 ![](https://gameace.at/mapping.7665a511.png)
 
 ### 我怎样才能确保我的游戏永远停留在 IPFS 上？
 
-创建者已经使用了几个 pin 服务。你不需要做任何事情。然而，如果您是偏执狂，您确实有一些进一步的选择: 
+创建者已经使用了几个 pin 服务。你不需要做任何事情。然而，如果您是偏执狂，您确实有一些进一步的选择:
 
-*   [获得 IPFS 桌面节点](https://docs.ipfs.io/install/ipfs-desktop/) 后把游戏 CID pin在您的计算机上。
-*   [Pinata pin 服务](https://pinata.cloud/) ，免费容量高达1gb，足够数百种不同的GameAce游戏。
-*   使用其他pin服务，有很多！
+* [获得 IPFS 桌面节点](https://docs.ipfs.io/install/ipfs-desktop/) 后把游戏 CID pin在您的计算机上。
+* [Pinata pin 服务](https://pinata.cloud/) ，免费容量高达1gb，足够数百种不同的GameAce游戏。
+* 使用其他pin服务，有很多！
 
 ### 我有一个合作计划... ？
 
@@ -223,7 +235,7 @@ NFT 卡带是BSC网络上的产生的。但是你也已经可以在其他网络�
 
 # 免责声明
 
-不提供任何保证或担保——根本上。此外: 
+不提供任何保证或担保——根本上。此外:
 
 * 本网站并不保证资料或功能是否正确或完整，
 * 亦不保证所制作的游戏/游戏机的功能是否正确或完整。

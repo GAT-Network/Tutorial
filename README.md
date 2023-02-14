@@ -37,8 +37,8 @@ Please do your own research and decide if GAT is the right token for your invest
 ## Others
 
 * GAT official partnership：https://gat.network/partner-tools/
-* Idea：[Discord | #💡suggestions-and-ideas](https://discord.gg/7uXjSZpNZH)
-* bug report：[Discord | #🐛bug-reports](https://discord.gg/dyjRyrbnar)
+* Idea：[Discord #💡suggestions-and-ideas](https://discord.gg/7uXjSZpNZH)
+* bug report：[Discord #🐛bug-reports](https://discord.gg/dyjRyrbnar)
 * Price Discussion Channel – not moderated：[Telegram](https://t.me/GATprice)
 * [GAT Stake](doc/stake.md)
 * TOYs Trading Channel – unofficial：[Telegram](https://t.me/alchemynfttoysoffering)

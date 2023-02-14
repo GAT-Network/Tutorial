@@ -33,8 +33,8 @@
 ## 其他
 
 * GAT官方商业合作：https://gat.network/partner-tools/
-* 社区建议：[Discord | #💡suggestions-and-ideas](https://discord.gg/7uXjSZpNZH)
-* bug反馈：[Discord | #🐛bug-reports](https://discord.gg/dyjRyrbnar)
+* 社区建议：[Discord #💡suggestions-and-ideas](https://discord.gg/7uXjSZpNZH)
+* bug反馈：[Discord #🐛bug-reports](https://discord.gg/dyjRyrbnar)
 * GAT价格讨论群(英文)：[Telegram](https://t.me/GATprice)
 * [GAT 质押](doc/stake_CN.md)
 * 非官方玩具NFT交易群：[Telegram](https://t.me/alchemynfttoysoffering)

@@ -198,4 +198,4 @@ Discord: MintedVodka#3794
 
 ## 团队历史展示
 
-* [GAT Network | Binance Incubation Grant Project Demo_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1eS4y1o7vp/)
+* [GAT Network Binance Incubation Grant Project Demo_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1eS4y1o7vp/)
